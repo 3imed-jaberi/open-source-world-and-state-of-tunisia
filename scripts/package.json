@@ -1,0 +1,22 @@
+{
+  "name": "tunisia-github-users",
+  "version": "1.0.0",
+  "description": " A light script for generate a quick statistique about the status of tunisia in github ..",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "generate": "node index.js"
+  },
+  "keywords": [
+    "OSS",
+    "Open-Source",
+    "Tunisia",
+    "Tunisia-Status",
+    "Github-Users"
+  ],
+  "author": "Imed Jaberi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
